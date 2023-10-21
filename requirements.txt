@@ -27,8 +27,10 @@ chroma-hnswlib==0.7.3
 chromadb==0.4.14
 click==8.1.7
 coloredlogs==15.0.1
+comm==0.1.4
 cssselect==1.2.0
 dataclasses-json==0.6.0
+debugpy==1.8.0
 decorator==5.1.1
 deeplake==3.8.1
 dill==0.3.7
@@ -52,6 +54,7 @@ google-api-python-client==2.101.0
 google-auth==2.23.0
 google-auth-httplib2==0.1.1
 google-auth-oauthlib==1.1.0
+google-search-results==2.4.2
 googleapis-common-protos==1.60.0
 gpt4all==1.0.12
 grpcio==1.59.0
@@ -64,7 +67,9 @@ humbug==0.3.2
 idna==3.4
 importlib-metadata==6.8.0
 importlib-resources==6.1.0
+ipykernel==6.25.2
 ipython==8.16.1
+jaraco.context==4.3.0
 jedi==0.19.1
 jieba3k==0.35.1
 Jinja2==3.1.2
@@ -75,6 +80,8 @@ jsonpickle==3.0.2
 jsonpointer==2.4
 jsonschema==4.19.1
 jsonschema-specifications==2023.7.1
+jupyter_client==8.4.0
+jupyter_core==5.4.0
 langchain==0.0.299
 langdetect==1.0.9
 langsmith==0.0.40
@@ -115,11 +122,13 @@ pathos==0.3.1
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==10.0.1
+platformdirs==3.11.0
 posthog==3.0.2
 pox==0.3.3
 ppft==1.7.6.7
 prompt-toolkit==3.0.39
 protobuf==4.24.3
+psutil==5.9.6
 ptyprocess==0.7.0
 pulsar-client==3.3.0
 pure-eval==0.2.2
@@ -145,6 +154,7 @@ python-magic==0.4.27
 pytz==2023.3.post1
 pyvis==0.3.2
 PyYAML==6.0.1
+pyzmq==25.1.1
 redis==5.0.1
 referencing==0.30.2
 regex==2023.8.8
@@ -205,8 +215,11 @@ validators==0.22.0
 watchfiles==0.21.0
 wcwidth==0.2.8
 websockets==11.0.3
+wikipedia==1.4.0
+wolframalpha==5.0.0
 wrapt==1.15.0
 wsproto==1.2.0
+xmltodict==0.13.0
 yarl==1.9.2
 yt-dlp==2023.10.13
 zipp==3.17.0
