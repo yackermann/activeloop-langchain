@@ -1,7 +1,11 @@
-Active Loop Langchain Course
+ActiveLoop Langchain Course Files
 ===
 
 My files for activeloop course https://learn.activeloop.ai/courses/take/langchain/multimedia/46318189-introduction-to-llm-memory
+
+This is a fantastic course and I highly recommend it for anyone to try it. It is free and you can get a lot of value from it.
+
+Big big :love: to the ActiveLoop team for making this course!
 
 PS. Starting from S5 it uses ChromaDB instead of activeloop
 
