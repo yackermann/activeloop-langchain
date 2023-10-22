@@ -38,6 +38,7 @@ elevenlabs==0.2.26
 emoji==2.8.0
 entrypoints==0.4
 executing==2.0.0
+faiss-cpu==1.7.4
 fastapi==0.103.2
 feedfinder2==0.0.4
 feedparser==6.0.10
@@ -82,9 +83,10 @@ jsonschema==4.19.1
 jsonschema-specifications==2023.7.1
 jupyter_client==8.4.0
 jupyter_core==5.4.0
-langchain==0.0.299
+langchain==0.0.319
+langchain-experimental==0.0.32
 langdetect==1.0.9
-langsmith==0.0.40
+langsmith==0.0.49
 libdeeplake==0.0.83
 llvmlite==0.41.0
 lxml==4.9.3
